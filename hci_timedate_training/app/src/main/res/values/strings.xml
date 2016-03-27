@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HCI:TimeDate_TRAINING</string>
+
+    <string name="instructions">Placeholder for task instructions</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_android">Android Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_i_os">iOSActivity</string>
+    <string name="title_activity_new">NewActivity</string>
+
+</resources>
